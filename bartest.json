@@ -1,0 +1,272 @@
+[
+    {
+        "key": "Highly Positive",
+        "color": "#d62728",
+        "values": [
+            {
+                "label": "January 2013",
+                "value": 64
+            },
+            {
+                "label": "February 2013",
+                "value": 11
+            },
+            {
+                "label": "March 2013",
+                "value": 54
+            },
+            {
+                "label": "April 2013",
+                "value": 11
+            },
+            {
+                "label": "May 2013",
+                "value": 23
+            },
+            {
+                "label": "June 2013",
+                "value": 15
+            },
+            {
+                "label": "July 2013",
+                "value": 51
+            },
+            {
+                "label": "August 2013",
+                "value": 31
+            },
+            {
+                "label": "September 2013",
+                "value": 15
+            },
+            {
+                "label": "October 2013",
+                "value": 22
+            },
+            {
+                "label": "November 2013",
+                "value": 35
+            },
+            {
+                "label": "December 2013",
+                "value": 55
+            }
+        ]
+    },
+    {
+        "key": "Positive",
+        "color": "#d62728",
+        "values": [
+            {
+                "label": "January 2013",
+                "value": 64
+            },
+            {
+                "label": "February 2013",
+                "value": 11
+            },
+            {
+                "label": "March 2013",
+                "value": 54
+            },
+            {
+                "label": "April 2013",
+                "value": 11
+            },
+            {
+                "label": "May 2013",
+                "value": 23
+            },
+            {
+                "label": "June 2013",
+                "value": 15
+            },
+            {
+                "label": "July 2013",
+                "value": 51
+            },
+            {
+                "label": "August 2013",
+                "value": 31
+            },
+            {
+                "label": "September 2013",
+                "value": 15
+            },
+            {
+                "label": "October 2013",
+                "value": 22
+            },
+            {
+                "label": "November 2013",
+                "value": 35
+            },
+            {
+                "label": "December 2013",
+                "value": 55
+            }
+        ]
+    },
+    {
+        "key": "Neutral",
+        "color": "#d62728",
+        "values": [
+            {
+                "label": "January 2013",
+                "value": 64
+            },
+            {
+                "label": "February 2013",
+                "value": 11
+            },
+            {
+                "label": "March 2013",
+                "value": 54
+            },
+            {
+                "label": "April 2013",
+                "value": 11
+            },
+            {
+                "label": "May 2013",
+                "value": 23
+            },
+            {
+                "label": "June 2013",
+                "value": 15
+            },
+            {
+                "label": "July 2013",
+                "value": 51
+            },
+            {
+                "label": "August 2013",
+                "value": 31
+            },
+            {
+                "label": "September 2013",
+                "value": 15
+            },
+            {
+                "label": "October 2013",
+                "value": 22
+            },
+            {
+                "label": "November 2013",
+                "value": 35
+            },
+            {
+                "label": "December 2013",
+                "value": 55
+            }
+        ]
+    },
+         {
+        "key": "Negative",
+        "color": "#d62728",
+        "values": [
+            {
+                "label": "January 2013",
+                "value": 64
+            },
+            {
+                "label": "February 2013",
+                "value": 11
+            },
+            {
+                "label": "March 2013",
+                "value": 54
+            },
+            {
+                "label": "April 2013",
+                "value": 11
+            },
+            {
+                "label": "May 2013",
+                "value": 23
+            },
+            {
+                "label": "June 2013",
+                "value": 15
+            },
+            {
+                "label": "July 2013",
+                "value": 51
+            },
+            {
+                "label": "August 2013",
+                "value": 31
+            },
+            {
+                "label": "September 2013",
+                "value": 15
+            },
+            {
+                "label": "October 2013",
+                "value": 22
+            },
+            {
+                "label": "November 2013",
+                "value": 35
+            },
+            {
+                "label": "December 2013",
+                "value": 55
+            }
+        ]
+    },
+    {
+        "key": "Highly Negative",
+        "color": "#d62728",
+        "values": [
+            {
+                "label": "January 2013",
+                "value": 64
+            },
+            {
+                "label": "February 2013",
+                "value": 11
+            },
+            {
+                "label": "March 2013",
+                "value": 54
+            },
+            {
+                "label": "April 2013",
+                "value": 11
+            },
+            {
+                "label": "May 2013",
+                "value": 23
+            },
+            {
+                "label": "June 2013",
+                "value": 15
+            },
+            {
+                "label": "July 2013",
+                "value": 51
+            },
+            {
+                "label": "August 2013",
+                "value": 31
+            },
+            {
+                "label": "September 2013",
+                "value": 15
+            },
+            {
+                "label": "October 2013",
+                "value": 22
+            },
+            {
+                "label": "November 2013",
+                "value": 35
+            },
+            {
+                "label": "December 2013",
+                "value": 55
+            }
+        ]
+    }
+]
