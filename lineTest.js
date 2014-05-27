@@ -1,4 +1,4 @@
-d3.json("mbmultiBar2.json", function(error, data) {
+d3.json("bartest.json", function(error, data) {
      
 var chart;
     
