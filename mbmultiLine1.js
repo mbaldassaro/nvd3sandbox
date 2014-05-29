@@ -1,4 +1,4 @@
-var dataset = d3.json("mbMultiLine.json", function(error, data) {
+var dataset = d3.json("mbmultiLine.json", function(error, data) {
 
 var chart;
     
