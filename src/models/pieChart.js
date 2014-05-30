@@ -16,7 +16,7 @@ nv.models.pieChart = function() {
     , tooltips = true
     , tooltip = function(key, y, e, graph) {
         return '<h3>' + key + '</h3>' +
-               '<p>' +  y + '</p>'
+               '<p>' +  y + '%</p>'  //note: i added the %. To display values as is, just remove percentage sign and nothing else 
       }
     , state = {}
     , defaultState = null

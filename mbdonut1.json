@@ -1,0 +1,46 @@
+[
+      { 
+        "label": "Political Instability",
+        "value" : 72
+      } , 
+      { 
+        "label": "Corruption",  
+        "value" : 43
+      } , 
+      { 
+        "label": "Underdeveloped Roads",  
+        "value" : 32
+      } ,
+      { 
+        "label": "High Commodities Prices",
+        "value" : 31
+      } , 
+      { 
+        "label": "Economic Crisis",  
+        "value" : 27
+      } , 
+      { 
+        "label": "Unemployment",  
+        "value" : 25
+      } ,
+      { 
+        "label": "Electricity",
+        "value" : 22
+      } , 
+      { 
+        "label": "Population Increase",  
+        "value" : 14
+      } , 
+      { 
+        "label": "No Dialogue",  
+        "value" : 10
+      } ,
+      { 
+        "label": "High Fuel Prices",
+        "value" : 9
+      } , 
+      { 
+        "label": "January 5 Elections",  
+        "value" : 9
+      } 
+]
